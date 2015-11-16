@@ -5,3 +5,7 @@ aici era baiu
 Ok vezi ca acuma am scris de pe telefon sa vad daca merge
 Merge, pentru ca ii un fisier text de fapt ceea ce editezi. Daca browserul suporta fisierul, il poti edita, dar nu poti edita fisiere pe care browserul nu le intelege.
 Vezi ca nu apar modificarile facute de tine numa dupa ce dau accept la pull request.
+Exact asa trebuie sa mearga, nimeni nu iti poate modifica fisierele fara sa ii dai accept la pull request.
+Ideea e ca eu modific, tu poti vedea ce modific si poti accepta sau nu modificarea, pentru ca e fisierul tau.
+Se poate crea si un proiect mai mare la care sa lucreze mai multe persoane fara sa fie nevoie sa dai accept de fiecare data, 
+insa acolo e alta mancare de peste, o sa iti arat mai tarziu.

@@ -3,3 +3,4 @@ ggfgfdghh
 
 aici era baiu 
 Ok vezi ca acuma am scris de pe telefon sa vad daca merge
+Merge, pentru ca ii un fisier text de fapt ceea ce editezi. Daca browserul suporta fisierul, il poti edita, dar nu poti edita fisiere pe care browserul nu le intelege.
